@@ -10,7 +10,7 @@ subject          | ID the subject who performed the activity for each window sam
 activity         | Activity name
 
 
-The rest varible names are composed with 4 components (e.g., tBodyAccMeanX, fBodyAccJerkStdZ)
+The rest varible names are composed with 7 components (e.g., tBodyAccMeanX, fBodyAccJerkStdZ)
 ----------------------------------------
 
 Variable name components  | Description
